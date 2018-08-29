@@ -1,0 +1,58 @@
+{
+   "collate": false,
+   "color": 0,
+   "copies": 0,
+   "debug": {
+      "content_area": {
+         "height": 496,
+         "width": 826,
+         "x": 118,
+         "y": 118
+      },
+      "deviceUnitsPerInch": 300,
+      "dpi": 300,
+      "effective_margins": {
+         "marginBottom": 118,
+         "marginLeft": 118,
+         "marginRight": 118,
+         "marginTop": 118
+      },
+      "media_size": {
+         "height": 0,
+         "width": 0
+      },
+      "media_vendor_id": "",
+      "overlay_area": {
+         "height": 696,
+         "width": 826,
+         "x": 118,
+         "y": 18
+      },
+      "physical_size": {
+         "height": 732,
+         "width": 1062
+      },
+      "printable_area": {
+         "height": 696,
+         "width": 992,
+         "x": 35,
+         "y": 18
+      },
+      "requested_custom_margins_in_points": {
+         "marginBottom": 0,
+         "marginLeft": 0,
+         "marginRight": 0,
+         "marginTop": 0
+      },
+      "support_alpha_blend": false
+   },
+   "deviceName": "Brother QL-800",
+   "duplex": -1,
+   "headerFooterEnabled": false,
+   "landscape": true,
+   "marginsType": 0,
+   "shouldPrintBackgrounds": false,
+   "shouldPrintSelectionOnly": false,
+   "title": "",
+   "url": ""
+}

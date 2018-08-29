@@ -1,0 +1,58 @@
+{
+   "collate": false,
+   "color": 0,
+   "copies": 0,
+   "debug": {
+      "content_area": {
+         "height": 3676,
+         "width": 2776,
+         "x": 142,
+         "y": 142
+      },
+      "deviceUnitsPerInch": 360,
+      "dpi": 360,
+      "effective_margins": {
+         "marginBottom": 142,
+         "marginLeft": 142,
+         "marginRight": 142,
+         "marginTop": 142
+      },
+      "media_size": {
+         "height": 0,
+         "width": 0
+      },
+      "media_vendor_id": "",
+      "overlay_area": {
+         "height": 3876,
+         "width": 2776,
+         "x": 142,
+         "y": 42
+      },
+      "physical_size": {
+         "height": 3960,
+         "width": 3060
+      },
+      "printable_area": {
+         "height": 3876,
+         "width": 2976,
+         "x": 42,
+         "y": 42
+      },
+      "requested_custom_margins_in_points": {
+         "marginBottom": 0,
+         "marginLeft": 0,
+         "marginRight": 0,
+         "marginTop": 0
+      },
+      "support_alpha_blend": false
+   },
+   "deviceName": "EPSONA1581D (L355 Series)",
+   "duplex": -1,
+   "headerFooterEnabled": false,
+   "landscape": false,
+   "marginsType": 0,
+   "shouldPrintBackgrounds": false,
+   "shouldPrintSelectionOnly": false,
+   "title": "",
+   "url": ""
+}
